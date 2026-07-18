@@ -1,0 +1,15 @@
+# Сборка
+build/
+cmake-build-*/
+*.o
+*.obj
+tetris
+tetris.exe
+
+# Сохранение игрока (создаётся при запуске)
+profile.dat
+
+# IDE
+.vscode/
+.idea/
+*.user
